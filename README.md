@@ -26,3 +26,11 @@ denoted by a circle with a dot inside.
 - pinpointing the events responsible for state transitions
 - Specifying the context and requirements of a system
 - Modeling the basic flow of events in a use case
+
+### Guidelines be considered while drawing a state chart diagram:
+- The name of a state transition must be unique.
+- The name of a state must be easily understandable and describe the
+behaviour of a state.
+- If there are multiple objects, then only essential objects should be
+implemented.
+- Proper names for each transition and event must be given.
